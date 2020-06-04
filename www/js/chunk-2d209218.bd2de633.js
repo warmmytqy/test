@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d209218"],{a86a:function(t,n,r){"use strict";r.r(n);var e=function(){var t=this,n=t.$createElement,r=t._self._c||n;return r("div",[r("Login",{attrs:{arr:t.arr}})],1)},a=[],u=r("89d2"),c={data:function(){return{arr:[{title:"登录豆瓣"},{button:"登录"},{router:"注册豆瓣账号"},{url:"/zhuce"}]}},components:{Login:u["a"]}},o=c,i=r("2877"),s=Object(i["a"])(o,e,a,!1,null,"cd03c6fe",null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d209218.bd2de633.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4645"],{"3b44":function(n,t,r){"use strict";r.r(t);var e=function(){var n=this,t=n.$createElement,r=n._self._c||t;return r("div",[r("Login",{attrs:{arr:n.arr}})],1)},a=[],o=r("89d2"),u={data:function(){return{arr:[{title:"注册豆瓣"},{button:"注册"},{router:"登录豆瓣账号"},{url:"/login"}]}},components:{Login:o["a"]}},c=u,i=r("2877"),l=Object(i["a"])(c,e,a,!1,null,"a80775d2",null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0c4645.25437878.js.map
